@@ -1,5 +1,5 @@
 /**
- * @class Example 
+ * @class Example
  */
 
 Example = function() {
@@ -45,6 +45,3 @@ Example.prototype.solve = function(limit, multipleOf) {
 	};
 
 };
-
-// Expose the object
-exports.Example = Example;
