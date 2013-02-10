@@ -23,3 +23,7 @@ Examples
     ...
     ...
     console.log(new testAlgorithm().solve(1000, [3, 5]).toString());
+
+Dependencies
+	big-integer: an arbitrary-length integer library for Javascript. 
+	https://github.com/peterolson/BigInteger.js
