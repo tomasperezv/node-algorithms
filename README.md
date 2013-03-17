@@ -9,6 +9,8 @@ Examples
     var testAlgorithm = new Algorithm();
   
     testAlgorithm.prototype.solve = function(limit, multipleOf) {
+    
+      var multiples = [];
   
       this.iterate({
         start: 1,
