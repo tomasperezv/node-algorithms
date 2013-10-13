@@ -14,7 +14,7 @@ Example.prototype = new Algorithm();
  * @public
  */
 
-Example.prototype.solve = function(limit, multipleOf) {
+Example.prototype.solve = function(limit) {
 
 	this.resetInterval();
 
@@ -38,10 +38,6 @@ Example.prototype.solve = function(limit, multipleOf) {
 		totalSum += current.value;
 	});
 
-	return {
-		toString: function() {
-			return 'Total multiples: ' + multiples.length + ' sum: ' + totalSum + ', time: ' + self.getElapsed() + ' ms';
-		}
-	};
+  return this;
 
 };
