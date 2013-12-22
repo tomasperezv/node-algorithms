@@ -1,0 +1,9 @@
+{
+  "name": "node-algorithms",
+  "description": "A node.js library to implement algorithms providing a semantic way.",
+  "author": "tom@0x101.com",
+  "dependencies": {
+    "big-integer": ">= 1.1.5"
+  },
+  "engine": "node 0.4.1"
+}
