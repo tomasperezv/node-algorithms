@@ -3,7 +3,25 @@
   "description": "A node.js library to implement algorithms providing a semantic way.",
   "author": "tom@0x101.com",
   "dependencies": {
-    "big-integer": ">= 1.1.5"
+    "big-integer": "~1.1.8",
+    "bignum": "~0.6.2"
   },
-  "engine": "node 0.4.1"
+  "engine": "node 0.4.1",
+  "version": "0.1.0",
+  "main": "runner.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomasperezv/node-algorithms.git"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasperezv/node-algorithms/issues"
+  },
+  "homepage": "https://github.com/tomasperezv/node-algorithms"
 }
