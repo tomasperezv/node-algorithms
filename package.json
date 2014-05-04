@@ -4,8 +4,7 @@
   "author": "tom@0x101.com",
   "dependencies": {
     "big-integer": "~1.1.8",
-    "bignum": "~0.6.2",
-    "readline": "0.0.3"
+    "bignum": "~0.6.2"
   },
   "engine": "node 0.4.1",
   "version": "0.1.0",
