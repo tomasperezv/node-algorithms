@@ -5,7 +5,8 @@
   "dependencies": {
     "big-integer": "~1.1.8",
     "bignum": "~0.6.2",
-    "line-reader": "~0.2.3"
+    "line-reader": "~0.2.3",
+    "node-pushover-alerts": "git+ssh://git@github.com:tomasperezv/node-pushover-alerts.git"
   },
   "engine": "node 0.4.1",
   "version": "0.1.0",
