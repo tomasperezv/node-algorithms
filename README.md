@@ -4,6 +4,9 @@ A node.js library to implement algorithms providing a semantic way.
 
 Used to solve project-euler and topcoder problems.
 
+![Project Euler](https://projecteuler.net/profile/tomasperezv.png)
+
+
 ```javascript
     var testAlgorithm = new Algorithm();
   
