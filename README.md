@@ -1,6 +1,6 @@
 Algorithms
 ============
-A node.js library to implement algorithms providing a semantic way.
+A node.js library providing a semantic way for implementing algorithms.
 
 Used to solve project-euler and topcoder problems.
 
